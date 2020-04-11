@@ -1,1 +1,2 @@
-name = '经理小王a'
+name = '经理小王'
+name2 = '小啊giao'
